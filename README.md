@@ -1,5 +1,9 @@
 # Tartan
-
+## Team members
+ + Ivan Penales
+ + Maisha Binte Moin
+ + Md Saeed Siddik
+ + Toni Aisida
 ## Building
 
 The build instructions can be found [here](./docs/build_instructions.md).
